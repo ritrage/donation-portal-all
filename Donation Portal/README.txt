@@ -16,3 +16,6 @@ To get this code running, run the following commands in the root folder of the p
 (This cleans and builds the project)
 2. mvn spring-boot:run
 (This runs the back end code at port 8080)
+
+PS: Front-end code while development is = https://github.com/shreyas-nisal/DonationPortal_React
+Back-end code here is updated one. but the earlier code can be found here = https://github.com/shreyas-nisal/DonationPortal_SpringBoot
